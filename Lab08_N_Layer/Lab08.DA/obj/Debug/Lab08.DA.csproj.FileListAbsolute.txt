@@ -1,0 +1,12 @@
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08.DA\bin\Debug\Lab08.DA.dll
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08.DA\bin\Debug\Lab08.DA.pdb
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08.DA\obj\Debug\Lab08.DA.csproj.AssemblyReference.cache
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08.DA\obj\Debug\Lab08.DA.csproj.CoreCompileInputs.cache
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08.DA\obj\Debug\Lab08.DA.dll
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08.DA\obj\Debug\Lab08.DA.pdb
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08.DA\bin\Debug\Lab08.DA.dll
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08.DA\bin\Debug\Lab08.DA.pdb
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08.DA\obj\Debug\Lab08.DA.csproj.AssemblyReference.cache
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08.DA\obj\Debug\Lab08.DA.csproj.CoreCompileInputs.cache
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08.DA\obj\Debug\Lab08.DA.dll
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08.DA\obj\Debug\Lab08.DA.pdb

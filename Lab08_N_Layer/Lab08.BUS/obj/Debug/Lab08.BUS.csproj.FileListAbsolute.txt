@@ -1,0 +1,18 @@
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08.BUS\bin\Debug\Lab08.BUS.dll
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08.BUS\bin\Debug\Lab08.BUS.pdb
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08.BUS\bin\Debug\Lab08.DA.dll
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08.BUS\bin\Debug\Lab08.DA.pdb
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08.BUS\obj\Debug\Lab08.BUS.csproj.AssemblyReference.cache
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08.BUS\obj\Debug\Lab08.BUS.csproj.CoreCompileInputs.cache
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08.BUS\obj\Debug\Lab08.BUS.csproj.CopyComplete
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08.BUS\obj\Debug\Lab08.BUS.dll
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08.BUS\obj\Debug\Lab08.BUS.pdb
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08.BUS\bin\Debug\Lab08.BUS.dll
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08.BUS\bin\Debug\Lab08.BUS.pdb
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08.BUS\bin\Debug\Lab08.DA.dll
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08.BUS\bin\Debug\Lab08.DA.pdb
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08.BUS\obj\Debug\Lab08.BUS.csproj.AssemblyReference.cache
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08.BUS\obj\Debug\Lab08.BUS.csproj.CoreCompileInputs.cache
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08.BUS\obj\Debug\Lab08.BUS.csproj.CopyComplete
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08.BUS\obj\Debug\Lab08.BUS.dll
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08.BUS\obj\Debug\Lab08.BUS.pdb

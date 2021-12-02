@@ -1,0 +1,30 @@
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\bin\Debug\Lab08_N_Layer.exe.config
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\bin\Debug\Lab08_N_Layer.exe
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\bin\Debug\Lab08_N_Layer.pdb
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\bin\Debug\Lab08.BUS.dll
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\bin\Debug\Lab08.DA.dll
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\bin\Debug\Lab08.BUS.pdb
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\bin\Debug\Lab08.DA.pdb
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\obj\Debug\Lab08.Win.csproj.AssemblyReference.cache
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\obj\Debug\Lab08_N_Layer.frmFood.resources
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\obj\Debug\Lab08_N_Layer.Properties.Resources.resources
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\obj\Debug\Lab08.Win.csproj.GenerateResource.cache
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\obj\Debug\Lab08.Win.csproj.CoreCompileInputs.cache
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\obj\Debug\Lab08.Win.csproj.CopyComplete
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\obj\Debug\Lab08_N_Layer.exe
+F:\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\obj\Debug\Lab08_N_Layer.pdb
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08_N_Layer\bin\Debug\Lab08_N_Layer.exe.config
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08_N_Layer\bin\Debug\Lab08_N_Layer.exe
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08_N_Layer\bin\Debug\Lab08_N_Layer.pdb
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08_N_Layer\bin\Debug\Lab08.BUS.dll
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08_N_Layer\bin\Debug\Lab08.DA.dll
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08_N_Layer\bin\Debug\Lab08.BUS.pdb
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08_N_Layer\bin\Debug\Lab08.DA.pdb
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08_N_Layer\obj\Debug\Lab08.Win.csproj.AssemblyReference.cache
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08_N_Layer\obj\Debug\Lab08_N_Layer.frmFood.resources
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08_N_Layer\obj\Debug\Lab08_N_Layer.Properties.Resources.resources
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08_N_Layer\obj\Debug\Lab08.Win.csproj.GenerateResource.cache
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08_N_Layer\obj\Debug\Lab08.Win.csproj.CoreCompileInputs.cache
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08_N_Layer\obj\Debug\Lab08.Win.csproj.CopyComplete
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08_N_Layer\obj\Debug\Lab08_N_Layer.exe
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab08_N_Layer\Lab08_N_Layer\obj\Debug\Lab08_N_Layer.pdb
